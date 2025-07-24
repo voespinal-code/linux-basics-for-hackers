@@ -2,7 +2,7 @@
 
 | Progreso | Módulo | Enlace |
 |----------|--------|--------|
-| 🟢 | Labs 01-02 · Permisos y Procesos | [linux-lab01-02-basic-text-manipulation](https://github.com/voespinal-code/linux-lab01-02-basic-text-manipulation.git) 
+| 🟢 | Labs 01-02 · Basic and Text Manipulation | [linux-lab01-02-basic-text-manipulation](https://github.com/voespinal-code/linux-lab01-02-basic-text-manipulation.git) 
 | 🟡 | Labs 03-04 · Networking | _Pendiente_ |
 | 🔜 | Labs 05-06 · Bash Scripting | _Pendiente_ |
 
